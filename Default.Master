@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="CoffeeShop.Default" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>CoffeeShop</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    </head>
+<body>
+    <header>
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+   
+    <link href="Styles/Theme/Defaut/bootstrap.css" rel="stylesheet" />
+    <link href="/Styles/Theme/Defaut/Desktop.less" rel="stylesheet/less" type="text/css" />
+    <script src="/Scripts/less.min.js"></script>
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css" />
+
+    <!-- Custom styles for this template -->
+    <link href="css/business-casual.css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style2 {
+            height: 314px;
+            width: 1183px;
+        }
+
+        .auto-style3 {
+            height: 170px;
+            margin-left: 145px;
+        }
+
+        .auto-style4 {
+            height: 170px;
+        }
+
+        .auto-style5 {
+            height: 164px;
+        }
+
+        .auto-style6 {
+            width: 1019px;
+        }
+    </style>
+
+    <div class="carousel-caption d-none d-md-block">
+        <h3 class="text-shadow">Coffe-Shop</h3>
+        <p class="text-shadow">Ceci est la légende de la première site café</p>
+    </div>
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <p>
+        <!--<img src="Image/39541061-ligne-d-esquisse-illustration-de-caf-ou-de-th-tasse-isol-sur-fond-blanc-vector-logo-mod-le-de-concep.jpg" class="auto-style2" />-->
+    </p>
+    <div class="tagline-lower text-center text-expanded text-shadow text-uppercase text-white mb-5 d-none d-lg-block">
+        <p>
+            Contactez nous
+        </p>
+    </div>
+    <div class="tagline-lower text-center text-expanded text-shadow text-uppercase text-white mb-5 d-none d-lg-block">
+        95 Avenue de Cannes,06400 CANNES | 0402999595
+    </div>
+    
+    </header>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    <asp:Button ID="Button1" runat="server" Text="Button" />
+                </p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

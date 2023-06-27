@@ -1,0 +1,12 @@
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Release\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Release\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Release\CoffeeShop.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Release\CoffeeShop.pdb
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.Owin.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Owin.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.Owin.xml

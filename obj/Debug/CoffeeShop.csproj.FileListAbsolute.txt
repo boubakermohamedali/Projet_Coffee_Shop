@@ -1,0 +1,67 @@
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.Owin.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Owin.dll
+C:\Users\MohamedAli\source\repos\CoffeeShop\CoffeeShop\CoffeeShop\bin\Microsoft.Owin.xml
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\Microsoft.Owin.dll
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\Owin.dll
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\bin\Microsoft.Owin.xml
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\MohamedAli\Desktop\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\Microsoft.Owin.dll
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\Owin.dll
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\bin\Microsoft.Owin.xml
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Creer Site Web en Asp.Net\Logiciel\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.Owin.dll
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Owin.dll
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.Owin.xml
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.Owin.dll
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Owin.dll
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\bin\Microsoft.Owin.xml
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\MohamedAli\Desktop\Les projets BTS\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+C:\Users\MohamedAli\Desktop\épreuve E4\PPE 3 Site de Présentation du CoffesShop en ligne pendant le festival\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\MohamedAli\Desktop\épreuve E4\PPE 3 Site de Présentation du CoffesShop en ligne pendant le festival\Coffee Shop Version Final   PPE 3 Valider\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\admin\Desktop\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\admin\Desktop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\admin\Desktop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache

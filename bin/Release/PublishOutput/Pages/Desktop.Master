@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Desktop.master.cs" Inherits="CoffeeShop.Pages.Desktop" %>
+
+<!DOCTYPE html>
+<html lang="en"> ==§0
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>CoffeeShop - Start Bootstrap Theme</title>
+      <!-- Bootstrap core CSS -->
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+       <!-- Custom Fonts for this template-->
+      <link href="css/business-casual.css" rel="stylesheet">
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+<header>..</header>
+        <div>
+            <h1>CoffeeShop</h1>
+            <p>exemple de message</p>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+            </asp:ContentPlaceHolder>
+            <br />
+            <br />
+            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            <br />
+            <br />
+            <asp:Button ID="Button1" runat="server" OnClick="OnClickBtn" Text="Button" />
+            <br />
+            <p>..</p>
+            <p>..</p>
+           </div>==§0
+        <div class ="col-lg-6">..</div>==$0
+        <div class="col-lg-6"
+          </div>
+          <div>
+        </div>
+        <div class="bg-faded p-4 my-4">…</div>
+        <div>
+        <!--/.container-->
+        <footer class="bg-faded text-center py-5">
+       <div class="container">
+           <p class="m-0">Copyright&copy; Your Website 2017</p>
+           </div>
+            </footer>
+
+        <!-- Bootstrap core JavaScript -->
+     <script src="vendor/jquery/jquery.min.js"></script>
+     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
